@@ -1,0 +1,56 @@
+[
+ {
+  "id": "b1",
+  "name": "Loginloop 3B 01",
+  "category": "BACKUP",
+  "url_data": "https://raw.githubusercontent.com/bangzvl/LOL-BACKUP/main/Loginloop%203B%2001.zip",
+  "url_video": "https://raw.githubusercontent.com/bangzvl/VIDEO-LOL-BACKUP/main/Loginloop%203B%2001.mp4",
+  "url_image": "https://raw.githubusercontent.com/bangzvl/LOL-ADS/main/api/thumbs/b1.jpg",
+  "mode": "public"
+ },
+ {
+  "id": "b2",
+  "name": "Patch 1.0",
+  "category": "BACKUP",
+  "url_data": "https://raw.githubusercontent.com/bangzvl/LOL-BACKUP/main/PATCH%201.0.zip",
+  "url_video": "https://raw.githubusercontent.com/bangzvl/VIDEO-LOL-BACKUP/main/PATCH%201.0.mp4",
+  "url_image": "https://raw.githubusercontent.com/bangzvl/LOL-BACKUP/main/PATCH%201.0.png",
+  "mode": "public"
+ },
+ {
+  "id": "b3",
+  "name": "Patch 2.0",
+  "category": "BACKUP",
+  "url_data": "https://raw.githubusercontent.com/bangzvl/LOL-BACKUP/main/PATCH%202.0.zip",
+  "url_video": "https://raw.githubusercontent.com/bangzvl/VIDEO-LOL-BACKUP/main/PATCH%202.0.mp4",
+  "url_image": "https://raw.githubusercontent.com/bangzvl/LOL-BACKUP/main/PATCH%202.0.png",
+  "mode": "public"
+ },
+ {
+  "id": "b4",
+  "name": "Patch 3.0",
+  "category": "BACKUP",
+  "url_data": "https://raw.githubusercontent.com/bangzvl/LOL-BACKUP/main/PATCH%203.0.zip",
+  "url_video": "https://raw.githubusercontent.com/bangzvl/VIDEO-LOL-BACKUP/main/PATCH%203.0.mp4",
+  "url_image": "https://raw.githubusercontent.com/bangzvl/LOL-BACKUP/main/PATCH%203.0.png",
+  "mode": "public"
+ },
+ {
+  "id": "b5",
+  "name": "PATCH 5loginLoop_3E_06",
+  "category": "BACKUP",
+  "url_data": "https://raw.githubusercontent.com/bangzvl/LOL-BACKUP/main/PATCH%205loginLoop_3E_06.zip",
+  "url_video": "https://raw.githubusercontent.com/bangzvl/LOL-BACKUP/main/PATCH%205%20loginLoop_3E_06.mp4",
+  "url_image": "https://raw.githubusercontent.com/bangzvl/LOL-ADS/main/api/thumbs/b5.jpg",
+  "mode": "public"
+ },
+ {
+  "id": "b6",
+  "name": "Patch 4.0 B",
+  "category": "BACKUP",
+  "url_data": "https://raw.githubusercontent.com/bangzvl/LOL-BACKUP/main/PAYCH%204.0%20B.zip",
+  "url_video": "https://raw.githubusercontent.com/bangzvl/LOL-BACKUP/main/PATCH%204.0%20B.mp4",
+  "url_image": "https://raw.githubusercontent.com/bangzvl/LOL-BACKUP/main/PATCH%204.0.png",
+  "mode": "public"
+ }
+]
