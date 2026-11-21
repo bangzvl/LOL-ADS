@@ -8,7 +8,7 @@ Pengganti server lama (introtoolsml.my.id). Dibaca langsung oleh aplikasi dari:
 | `show.json` | Daftar intro: `id`, `name`, `category` (ANIME/TIKTOK/GAME/HERO/E-SPORT), `url_image`, `url_data` (zip), `url_video` (preview), `mode` (`public`/`private`) |
 | `show_backup.json` | Intro asli (backup) dengan format yang sama |
 | `show_ads.json` | Banner Rekomendasi: `url_image`, `url_data` (link saat diketuk) |
-| `path_now.json` | Nama file intro cadangan di folder game. Aplikasi mendeteksi nama file otomatis; ini hanya dipakai kalau deteksi gagal |
+| `path_now.json` | Catatan nama file intro game terakhir yang diketahui (mis. `DynamicDownload/Video/Compliance/loginLoop_6D_01.mp4`). Aplikasi mendeteksi file otomatis |
 | `thumbs/` | Thumbnail, diambil dari video preview tiap intro |
 
 ## Menambah intro baru
